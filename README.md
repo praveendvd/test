@@ -11,10 +11,11 @@ b=f.read()
 
 c=json.loads(b)
 
-e=json2html.convert(json = c, table_attributes="style=\"background32143214-color:powderblue;border: 1px solid black;\" border=\"1\"")
+e=json2html.convert(json = c, table_attributes="strerereyle=\"background32143214-color:powderblue;border: 1px solid black;\" border=\"1\"")
 
 
 print(e)
 f=open("new.html", "w")
 f.write(e)
 f.close()dfdfd
+43r43tr43

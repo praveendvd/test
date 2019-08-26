@@ -16,6 +16,6 @@ c=json.loads(b)
 
 print(e)
 f=open("new.html", "w")
-f.write(e)
+f.write(e)dsfsdf
 f.close()dfdfdd
 43r43tr43zz

@@ -4,7 +4,7 @@
 #!/usr/local/bin/python3.7
 import json
 from json2html import *
-
+print
 
 f=open("test.json", "r")
 b=f.read()

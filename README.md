@@ -7,7 +7,7 @@ from json2html import *
 print sdsddfdfdd
 sds
 f=open("test.json", "r")
-b=f.read()
+b=f.read()e
 
 c=json.loads(b)
 

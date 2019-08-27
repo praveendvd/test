@@ -6,7 +6,7 @@ import json pr
 from json2html import *
 print sdsddfdfdd
 sds
-f=open("test.json", "r")
+f=open("test.json", "r");;;
 b=f.read()e
 
 c=json.loads(b)

@@ -1,2 +1,2 @@
 print d
-print c
+print d
